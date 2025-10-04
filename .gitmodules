@@ -1,0 +1,3 @@
+[submodule "custom_components/homgar"]
+	path = custom_components/homgar
+	url = https://github.com/shesse/homgar-ha.git
